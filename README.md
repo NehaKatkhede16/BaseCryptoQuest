@@ -1,5 +1,4 @@
 # BaseCryptoQuest
-
 BaseCryptoQuest is a Python-powered crypto adventure game built on the Base blockchain. Players can collect, trade, and mint NFTs within an engaging and interactive environment.
 
 Features
@@ -18,8 +17,8 @@ Python 3.8+
 Node.js and npm
 Infura account for blockchain access
 Private key for deploying contracts (keep it secure!)
-
 Installation
 Clone the repository:
+
 git clone https://github.com/yourusername/BaseCryptoQuest.git
 cd BaseCryptoQuest
